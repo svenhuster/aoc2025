@@ -1,0 +1,6 @@
+/.direnv/
+/.claude/
+/.build_flags_*
+/day??
+/input*.txt
+/sample*.txt
